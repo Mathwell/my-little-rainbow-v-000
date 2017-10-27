@@ -1,4 +1,4 @@
-p {
+#red{
   border: 20px solid #0ff; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
